@@ -1,9 +1,10 @@
 {
-  "name": "@sass/tsconfig",
+  "name": "@saas/tsconfig",
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
   "exports": {
-    "./library": "./library.json"
+    "./library": "./library.json",
+    "./node": "./node.json"
   }
 }
